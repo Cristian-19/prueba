@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><KNIMEMetaInfo nrOfElements="3">
+<element form="text" read-only="false" name="Author">Christian Gutierrez</element>
+<element form="date" name="Creation Date" read-only="false">16/7/2017</element>
+<element form="multiline" name="Comments" read-only="false"/>
+</KNIMEMetaInfo>
